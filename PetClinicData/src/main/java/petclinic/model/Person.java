@@ -1,4 +1,4 @@
-package pl.vxm.doker.petclinic.model;
+package petclinic.model;
 
 public class Person {
 
